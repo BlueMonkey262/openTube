@@ -1,4 +1,4 @@
-###OpenTube
+### OpenTube
 OpenTube is a project to make a open source, and modular video streaming service.
 ---
 How it works:
