@@ -12,5 +12,4 @@ Keeps track of channels, acting like a phone book for Servers.
 # Client
 Does the fun part! Shows the video to you, first by contacting a registry, finding a channel it wants, then talking to a server to stream a video!
 
-
-
+**All work is done in the dev branch, and once proven stable, is moved to master.**
